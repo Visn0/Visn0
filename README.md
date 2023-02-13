@@ -4,7 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Visn0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Go and trading 
+- 🌱 Web3 and trading.
+- 🤔 Always learning new technologies. 
 
 <!--
 **Visn0/Visn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
