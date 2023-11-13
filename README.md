@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Visn0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Web3 and trading.
+- 🌱 Data Science Hackathon enjoyer.
 - 🤔 Always learning new technologies. 
 
 <!--
