@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Visn0&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Visn0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🌱 Data Science Hackathon enjoyer.
-- 🤔 Always learning new technologies. 
+- 🤔 Learning sometimes about Bioinformatics. 
 
 <!--
 **Visn0/Visn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
